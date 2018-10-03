@@ -3,7 +3,7 @@ SQLyog Community Edition- MySQL GUI v6.07
 Host - 5.7.14 : Database - little-store
 *********************************************************************
 Server version : 5.7.14
-*/
+*//*创建时间2018/10/03 12:19*/
 
 /*!40101 SET NAMES utf8 */;
 
